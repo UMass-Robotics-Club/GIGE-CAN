@@ -9,4 +9,4 @@
 ![GiGE Top](./github/GiGE-Top.png)
 
 ### Bottom
-![GiGE Bot](./github/GiGE-Bot.png)
+![GiGE Bot](https://github.com/UMass-Robotics-Club/Mega-CAN/blob/main/.github/assets/GiGE%20Bot.png)
