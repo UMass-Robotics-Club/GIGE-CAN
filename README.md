@@ -8,10 +8,10 @@
 
 ## What Mega-CAN Looks Like!
 ### Top 
-![GiGE Top](https://github.com/UMass-Robotics-Club/Mega-CAN/blob/main/.github/assets/GiGE%20Top.png)
+![GiGE Top](https://github.com/UMass-Robotics-Club/Mega-CAN/blob/main/.github/assets/Real_Top.png)
 
 ### Bottom
-![GiGE Bot](https://github.com/UMass-Robotics-Club/Mega-CAN/blob/main/.github/assets/GiGE%20Bot.png)
+![GiGE Bot](https://github.com/UMass-Robotics-Club/Mega-CAN/blob/main/.github/assets/Real_Bot.png)
 
 ### Altium 3D Viewer
 
