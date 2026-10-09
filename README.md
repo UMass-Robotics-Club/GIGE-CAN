@@ -1,4 +1,5 @@
-# Mega-CAN
+# R.O.V.E.R
+## GIGE-CAN
 
 ## BOM
 **Refer to can-board discord channel with updated online BOM**
